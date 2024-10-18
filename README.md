@@ -1,3 +1,6 @@
+# Anita comments added
+I'm adding some comments here for training purpose
+
 # UI Automation Week Team Challenge
 This repository contains the application code required for the UI automation week team challenge. In this readme you can find details on how to get the application started and the challenge details.
 
